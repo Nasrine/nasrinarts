@@ -1,0 +1,28 @@
+:root {
+  --color-primary: lightcoral;
+  --color-primary-light: #494948;
+  --color-secondary: #b22028;
+  --color-accent: #494948;
+  --color-neutral-beige: #e2e2e2;
+  --color-pink: #ef8080;
+
+  --font-primary: "Open Sans", sans-serif;
+  --font-secondary: "Prociono, serif";
+}
+
+html {
+  font-family: var(--font-primary);
+}
+
+mark {
+  background-color: var(--color-primary-light);
+}
+
+a {
+  color: #494948;
+  font-style: italic;
+}
+
+a:hover {
+  color: lightcoral;
+}
