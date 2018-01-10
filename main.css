@@ -32,20 +32,20 @@ h1{
 }
 
 h2{
-  text text-decoration: none;
+  color: white;
 }
 
 ul a:hover{
-  background-color: lightgrey;
+  background-color: none;
   color: #b22028;
-  text-decoration: none;
 }
+
+
 img {
   display: inline-block;
 
 }
 
-.work {
-background-color: #606060;
-
+.footer{
+  : ;
 }
