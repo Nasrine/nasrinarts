@@ -20,6 +20,7 @@ html{
 .name {
  align-content: center;
  vertical-align: middle;
+ display: flex;
 }
 
 header {

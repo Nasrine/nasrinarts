@@ -21,6 +21,7 @@ html{
   color: #303030;
   background-color: lightgrey;
   font-family:'Open+Sans';
+  text-align: center;
 }
 
 header {
@@ -31,10 +32,22 @@ h1{
   color: #303030;
 }
 
+.unit{
+  text-align: center;
+}
+
 h2{
   color: white;
 }
+.stationary-h2 {
+  color: #000;
+}
 
+.brand-h1 {
+  color: #cc0033;
+  margin: 0;
+
+}
 ul a:hover{
   background-color: none;
   color: #b22028;
