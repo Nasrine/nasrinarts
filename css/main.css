@@ -18,21 +18,17 @@ html{
   box-sizing: inherit;
 }
 .name {
-  color: #303030;
-  background-color: lightgrey;
-  font-family:'Open+Sans';
+ align-content: center;
+ vertical-align: middle;
 }
 
 header {
-  background-color: lightgrey;
-}
-
-h1{
-  color: #303030;
+  background-color: #303030;
 }
 
 h2{
-  text text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 ul a:hover{
@@ -46,6 +42,11 @@ img {
 }
 
 .work {
-background-color: #606060;
+background-color: #909090;
 
+}
+.footer{
+  text-align: center;
+  background-color: #303030;
+  color: white;
 }
