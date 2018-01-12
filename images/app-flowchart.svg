@@ -12,6 +12,8 @@
 	.st6{font-size:25.5152px;}
 	.st7{fill:none;stroke:#000000;stroke-width:1.1598;stroke-miterlimit:10;}
 	.st8{font-size:33.2824px;}
+	.st9{font-size:33.2841px;}
+	.st10{fill:none;stroke:#CCCCCC;stroke-width:2;stroke-miterlimit:10;}
 </style>
 <rect x="142.8" y="131.9" class="st0" width="229.7" height="66"/>
 <rect x="434.3" y="129.3" class="st0" width="229.7" height="66"/>
@@ -27,17 +29,17 @@
 <text transform="matrix(0.7871 0 0 1 216.6582 299.1494)" class="st3 st4">Recipes</text>
 <g>
 	<rect x="185.4" y="417.9" class="st2" width="167.5" height="29.8"/>
-	<text transform="matrix(0.8346 0 0 1 185.415 436.0298)" class="st5 st3 st6">add to favorite</text>
+	<text transform="matrix(0.8346 0 0 1 185.415 436.0293)" class="st5 st3 st6">add to favorite</text>
 </g>
 <g>
 	<rect x="477.2" y="277.7" class="st2" width="179" height="40.1"/>
-	<text transform="matrix(0.7871 0 0 1 477.2397 297.334)" class="st3 st4">add  new recipe</text>
+	<text transform="matrix(0.7871 0 0 1 477.2402 297.334)" class="st3 st4">add  new recipe</text>
 </g>
 <rect x="459.9" y="417.7" class="st2" width="181.5" height="30.5"/>
-<text transform="matrix(0.8346 0 0 1 459.9018 435.8296)" class="st5 st3 st6">add to shopping list</text>
+<text transform="matrix(0.8346 0 0 1 459.9014 435.8301)" class="st5 st3 st6">add to shopping list</text>
 <line class="st1" x1="257.5" y1="197.9" x2="257.7" y2="251.9"/>
 <rect x="456.6" y="154.9" class="st2" width="193" height="28.3"/>
-<text transform="matrix(0.8958 0 0 1 456.6496 173.0615)" class="st3 st6">add new Category</text>
+<text transform="matrix(0.8958 0 0 1 456.6494 173.0615)" class="st3 st6">add new Category</text>
 <rect x="204" y="153.7" class="st2" width="135.7" height="23.4"/>
 <text transform="matrix(0.8958 0 0 1 203.9775 171.7861)" class="st3 st6">Categories</text>
 <line class="st1" x1="527.6" y1="331.5" x2="527.6" y2="361.1"/>
@@ -54,15 +56,16 @@
 	<polyline class="st1" points="543.9,371.6 554.6,390.2 566.3,370.8 	"/>
 </g>
 <rect x="411.1" y="153.7" class="st2" width="31.1" height="28"/>
-<text transform="matrix(0.8958 0 0 1 411.1313 177.3037)" class="st3 st8">&gt;</text>
+<text transform="matrix(0.8958 0 0 1 411.1309 177.3037)" class="st3 st8">&gt;</text>
 <rect x="411.1" y="285.4" class="st2" width="31.1" height="28"/>
-<text transform="matrix(0.8958 0 0 1 411.063 309.0664)" class="st3 st8">&gt;</text>
+<text transform="matrix(0.8958 0 0 1 411.0625 309.0664)" class="st3 st8">&gt;</text>
 <rect x="405.5" y="412" class="st2" width="31.1" height="28"/>
-<text transform="matrix(0.8958 0 0 1 405.5317 435.6382)" class="st3 st8">&gt;</text>
+<text transform="matrix(0.8958 0 0 1 405.5312 435.6387)" class="st3 st8">&gt;</text>
 <line class="st1" x1="429.5" y1="281.1" x2="376.2" y2="282.1"/>
-<rect x="360.9" y="268.8" transform="matrix(0.9998 -1.745241e-02 1.745241e-02 0.9998 -4.8784 6.6125)" class="st2" width="31.1" height="28"/>
-<text transform="matrix(-0.8956 1.563136e-02 -1.745000e-02 -0.9999 391.819 272.962)" class="st3 st8">&gt;</text>
+<rect x="360.9" y="268.8" transform="matrix(0.9998 -1.745324e-02 1.745324e-02 0.9998 -4.8782 6.613)" class="st2" width="31.1" height="28"/>
+<text transform="matrix(-0.8956 1.563054e-02 -1.744909e-02 -0.9998 391.8199 272.9624)" class="st3 st9">&gt;</text>
 <line class="st1" x1="273.6" y1="255.9" x2="274.4" y2="201.9"/>
 <line class="st7" x1="274.9" y1="200.2" x2="263.8" y2="219.4"/>
 <line class="st7" x1="284.7" y1="220.1" x2="274.9" y2="200.2"/>
+<rect x="1" y="1" class="st10" width="790" height="609"/>
 </svg>
