@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 299.5 289.3" style="enable-background:new 0 0 299.5 289.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#C80032;}
+	.st1{fill:#CC0033;}
 </style>
 <title>Linkdin-red</title>
 <circle class="st0" cx="34.9" cy="39.6" r="32.6"/>
-<polygon class="st0" points="3.6,91.9 3.6,282.5 67.1,282.5 67.1,91.1 "/>
-<path class="st0" d="M103.5,91.9v191.5H167c0-38.3,0-76.5,0-114.8c0-14.9,18.9-30.4,33.2-31.1c17.9-0.9,31.3,16,33,32.4
-	c0.9,8.5,2,112.6,2.4,112.6h61c0-31.2,0.3-131.2-1.4-139c-5.2-23.8-30.6-67.4-86.8-52.9c-7.1,1.9-41.4,20.4-41.4,23.9V91.9H103.5z"
-	/>
+<polygon class="st1" points="3.6,91.9 3.6,282.5 67.1,282.5 67.1,91.1 "/>
+<path class="st0" d="M103.5,91.9v191.5H167c0-38.3-2.9-76.6,0-114.8c1.9-25.2,59.3-44.7,66.2,1.3c0.8,16.8,2,112.6,2.4,112.6h61
+	c0-31.2,0.3-131.2-1.4-139C258.3,48.1,167,111,167,114.5V91.9H103.5z"/>
 </svg>

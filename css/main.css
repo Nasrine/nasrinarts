@@ -11,46 +11,82 @@ html{
   -webtext-text-size-adjust:100%;
 
   min-height: 100vh;
-  background-color: white;
+  background-color: Black;
 }
 
 *, *::before, *::after{
   box-sizing: inherit;
 }
-.name {
+
+.wordmark {
  align-content: center;
  vertical-align: middle;
- display: flex;
+ text-align: center;
 }
 
 header {
-  background-color: #303030;
+  background-color: #cc0000;
 }
 
-h2{
-  color: white;
-  text-decoration: none;
+.home-h2{
+color: #fff;
+text-decoration: none;
 }
+
 .brand-p {
  color: #606060;
+ padding-bottom: :0;
+ padding-top: 0;
+ margin: 0;
 }
 
-ul a:hover{
+.brand-h1{
+  color: #fff;
+}
+
+.branding-h2 {
+  color: #cc0000;
+}
+
+.motion-h2{
+  color: #cc0000;
+}
+
+.app-h2 {
+  color: #cc0000;
+}
+
+.unit-app {
+  color: #cc0000;
+}
+
+a:hover{
   background-color: lightgrey;
   color: #b22028;
   text-decoration: none;
 }
+
+.home {
+  background-image: url("images/home-32-light.svg");
+  z-index: 1000;
+}
+
+.list-group-inline {
+   background-color: #cc0000;
+}
+
 img {
   display: inline-block;
-
 }
 
 .work {
-background-color: #909090;
-
+background-color: #303030;
 }
+
+
+
 .footer{
   text-align: center;
-  background-color: #303030;
+  background-color: #cc0000;
   color: white;
 }

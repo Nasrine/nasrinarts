@@ -35,7 +35,12 @@ h1{
 
 .unit{
   text-align: center;
+
 }
+.wordmark{
+  position: center;
+}
+
 
 .unit-app{
   width: 100%;
@@ -48,6 +53,7 @@ h1{
 .push{
   color: white;
 }
+
 h2{
   color: red;
 }
